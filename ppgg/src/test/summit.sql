@@ -1,0 +1,2 @@
+INSERT INTO SK_AI.summit (seq, year, use_yn, offline_apply_yn, online_apply_yn, reg_id, reg_date, mod_id, mod_date) VALUES (1, 2025, 'Y', 'Y', 'Y', 'admin', '2025-09-15 16:02:34.804585', 'admin', '2025-09-15 16:02:34.804585');
+INSERT INTO SK_AI.summit (seq, year, use_yn, offline_apply_yn, online_apply_yn, reg_id, reg_date, mod_id, mod_date) VALUES (2, 2026, 'Y', 'N', 'N', 'admin', '2025-09-15 16:02:44.365578', 'admin', '2025-09-15 16:02:44.365578');

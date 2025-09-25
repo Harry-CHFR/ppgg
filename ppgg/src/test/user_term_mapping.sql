@@ -1,0 +1,12 @@
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (118, 45, 1, '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (119, 45, 2, '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (120, 45, 3, '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (121, 45, 4, '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (122, 45, 5, '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (123, 45, 6, '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (184, 57, 1, '2025-09-25 10:28:20.840403');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (185, 57, 2, '2025-09-25 10:28:20.840403');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (186, 57, 3, '2025-09-25 10:28:20.840403');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (187, 57, 4, '2025-09-25 10:28:20.840403');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (188, 57, 5, '2025-09-25 10:28:20.840403');
+INSERT INTO SK_AI.user_term_mapping (seq, user_seq, term_seq, agreed_at) VALUES (189, 57, 6, '2025-09-25 10:28:20.840403');

@@ -1,0 +1,2 @@
+INSERT INTO SK_AI.day (seq, summit_seq, day, open_date, open_time, reg_id, reg_date, mod_id, mod_date) VALUES (1, 1, 1, '2025-10-01', '09:00:00', 'admin', '2025-09-15 16:03:01.533077', 'admin', '2025-09-15 16:03:01.533077');
+INSERT INTO SK_AI.day (seq, summit_seq, day, open_date, open_time, reg_id, reg_date, mod_id, mod_date) VALUES (2, 1, 2, '2025-10-02', '09:10:00', 'admin', '2025-09-15 16:03:12.142744', 'admin', '2025-09-15 16:03:12.142744');

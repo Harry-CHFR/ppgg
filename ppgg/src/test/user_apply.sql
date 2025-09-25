@@ -1,0 +1,5 @@
+INSERT INTO SK_AI.user_apply (seq, day_seq, apply_type, reg_id, reg_date, mod_id, mod_date) VALUES (1, 1, 'ONLINE', 'bcqt@pentabreed.com', '2025-09-16 17:07:55.160881', 'bcqt@pentabreed.com', '2025-09-16 17:07:55.160881');
+INSERT INTO SK_AI.user_apply (seq, day_seq, apply_type, reg_id, reg_date, mod_id, mod_date) VALUES (2, 2, 'OFFLINE', 'bcqt@pentabreed.com', '2025-09-16 17:08:23.302988', 'bcqt@pentabreed.com', '2025-09-16 17:08:23.302988');
+INSERT INTO SK_AI.user_apply (seq, day_seq, apply_type, reg_id, reg_date, mod_id, mod_date) VALUES (51, 1, 'OFFLINE', 'smathj@naver.com', '2025-09-23 13:22:46.381601', 'smathj@naver.com', '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_apply (seq, day_seq, apply_type, reg_id, reg_date, mod_id, mod_date) VALUES (52, 2, 'OFFLINE', 'smathj@naver.com', '2025-09-23 13:22:46.381601', 'smathj@naver.com', '2025-09-23 13:22:46.381601');
+INSERT INTO SK_AI.user_apply (seq, day_seq, apply_type, reg_id, reg_date, mod_id, mod_date) VALUES (75, 1, 'ONLINE', 'qudcks5731@naver.com', '2025-09-25 10:28:20.840403', 'qudcks5731@naver.com', '2025-09-25 10:28:20.840403');
